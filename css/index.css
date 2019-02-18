@@ -204,15 +204,17 @@ footer {
     /* background: gray; */
     }
 .container header{
-    width: 100%
+    width: 100%;
+    margin-top: 12%;
 }
     header .logo {
-        display: inline-block;
-        margin: 25px 0;
-        top: 0px;
-        position: absolute;
-        /* top: 50%; */
-        left: 31%;
+    /* display: block; */
+    /* width: 100%; */
+    position: absolute;
+    top: 0px;
+    /* margin-top: 10px; */
+    margin: 10px 31%;
+        
     }
 
     .container header nav {
